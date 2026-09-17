@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: irJY0cTWy3hb1j6Q8DhqWFUokyZjJCerbFjJmkK1Y8s=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: jla3RGpYahGu7b2JDhc0RkiU1XMwQnPVQGIaMjULqUk=
+
+Name: assets/weather.html
+SHA-256-Digest: W2xBdGhy8ND48KmZdyAihl4kCsFj6wGcylVnTbfqs1M=
+
+Name: classes.dex
+SHA-256-Digest: s5zvz0JPpbXQWvsuJQ/RU+uQ9lLSVkFEm/Fi8/aOIFE=
+
+Name: res/drawable/widget_bg.xml
+SHA-256-Digest: NLQOXZwrNMHFoiyl3hVEt1cGdI0UdD+fqXd3OsTs64A=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: Fj9ki/GiX7qZWhdYRiyPFK3TFrQ0nKQ8D/QnphO07m0=
+
+Name: res/layout/widget_weather.xml
+SHA-256-Digest: ERMn4UGSYw9MxDNPJVqs88Ev2KYUD91JaWBwxNJdn3E=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: mmIYhhUFpyfQkXjokFaPJrwCeq6OLOd25/GVf+eb9eU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: EGBbdCqFFI1ZqeT05KFSiKSOGhOs5zItKIy8CnFuLoM=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: R39LQ0PN8r7ngdL7umjCrNVZAC9q6YATf5kR6lLt45I=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: s4SGEsvP5/cQw0Zmob4Sy05QSSr7DMBoYAm7uyguJiI=
+
+Name: res/xml/widget_info.xml
+SHA-256-Digest: XKPGdnq9GQ+VQT/L4y6i2eojI6gpEPuPU6MhOwUt29k=
+
+Name: resources.arsc
+SHA-256-Digest: xhLDbU19ETi5DEww+jUrpUCjor7gEe80WMbW4bh9Mqw=
+
