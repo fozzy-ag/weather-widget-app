@@ -3,6 +3,10 @@
 Extract of `Weather_com.weather.app.apk` — an Android "Weather" app with a
 home-screen widget and a WebView UI.
 
+## Screenshot
+
+![Weather app screenshot](screenshot.png)
+
 ## What this is
 
 This repo is a round-trip reproduction of the APK found at
